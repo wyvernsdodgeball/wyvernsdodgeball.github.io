@@ -1,0 +1,156 @@
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": ["SportsOrganization", "SportsClub"],
+    "@id": "{{ site.url }}/#organization",
+    "name": "Wyverns Dodgeball – ASD Wyverns Dodgeball",
+    "legalName": "Associazione Sportiva Dilettantistica Wyverns Dodgeball",
+    "alternateName": [
+      "Wyverns Dodgeball",
+      "ASD Wyverns Dodgeball",
+      "Wyverns Dodgeball Roma"
+    ],
+    "taxID": "96629020585",
+    "url": "{{ site.url }}/",
+    "mainEntityOfPage": "{{ site.url }}/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/assets/images/logo.png",
+      "width": 711,
+      "height": 800
+    },
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/assets/images/wyverns-dodgeball-roma-og.jpg",
+      "width": 1200,
+      "height": 630
+    },
+    "description": "{{ site.description | escape }}",
+    "sport": "Dodgeball",
+
+    "knowsAbout": [
+      "Dodgeball",
+      "Allenamento Dodgeball",
+      "Sport di squadra",
+      "Dodgeball competitivo",
+      "Dodgeball per bambini"
+    ],
+
+    "email": "{{ site.author.email }}",
+    "telephone": "{{ site.phone }}",
+
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": "{{ site.author.email }}",
+      "telephone": "{{ site.phone }}",
+      "areaServed": "IT",
+      "availableLanguage": ["Italian"]
+    },
+
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Via Baldassarre Orero 55",
+      "addressLocality": "Roma",
+      "addressRegion": "Lazio",
+      "postalCode": "00159",
+      "addressCountry": "IT"
+    },
+
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Roma"
+      }
+    ],
+
+    "foundingLocation": {
+      "@type": "Place",
+      "name": "Roma",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Roma",
+        "addressRegion": "Lazio",
+        "addressCountry": "IT"
+      }
+    },
+
+    "memberOf": {
+      "@type": "SportsOrganization",
+      "name": "FIGeST – Federazione Italiana Giochi e Sport Tradizionali",
+      "memberOf": [
+        {
+          "@type": "SportsOrganization",
+          "name": "World Dodgeball Federation"
+        },
+        {
+          "@type": "SportsOrganization",
+          "name": "European Dodgeball Federation"
+        }
+      ]
+    },
+
+    "location": {
+      "@type": "SportsActivityLocation",
+      "name": "Palestra Scuola Malaspina – San Paolo",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 41.8585,
+        "longitude": 12.4790
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Antonino Pio 84",
+        "addressLocality": "Roma",
+        "addressRegion": "Lazio",
+        "postalCode": "00145",
+        "addressCountry": "IT"
+      },
+      "openingHoursSpecification": [
+        { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Wednesday", "Thursday"], "opens": "20:00", "closes": "22:00" },
+        { "@type": "OpeningHoursSpecification", "dayOfWeek": "Tuesday", "opens": "20:00", "closes": "21:30" },
+        { "@type": "OpeningHoursSpecification", "dayOfWeek": "Wednesday", "opens": "17:30", "closes": "19:00" }
+      ]
+    },
+
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Attività sportive",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Allenamenti di Dodgeball per adulti" }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Corso di Dodgeball per principianti" }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": { "@type": "Service", "name": "Corso di Dodgeball per bambini" }
+        }
+      ]
+    },
+
+    "sameAs": [
+      "{{ site.social.instagram }}",
+      "{{ site.social.facebook }}",
+      "{{ site.social.tiktok }}",
+      "{{ site.social.youtube }}"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "{{ site.url }}/#website",
+    "url": "{{ site.url }}/",
+    "name": "{{ site.title }}",
+    "description": "{{ site.description | escape }}",
+    "inLanguage": "it-IT",
+    "publisher": {
+      "@id": "{{ site.url }}/#organization"
+    }
+  }
+]
+</script>

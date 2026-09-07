@@ -1,0 +1,59 @@
+# ═══════════════════════════════════════
+#  WYVERNS DODGEBALL — Jekyll Config
+#  (tema basato sul sito dei Ravenna Grizzlies)
+# ═══════════════════════════════════════
+
+title:       "Wyverns Dodgeball – Dodgeball a Roma"
+description: "ASD Wyverns Dodgeball: la squadra di dodgeball di Roma. Allenamenti a San Paolo per adulti, principianti e bambini. Affiliati FIGeST. Vieni a provare!"
+
+# URL del sito. Finché usi solo GitHub Pages: https://TUO-UTENTE.github.io
+# Quando colleghi il dominio Aruba: https://wyvernsdodgeball.it (o dodgeballroma.it)
+url:         "https://wyverns-dodgeball.github.io"
+baseurl:     ""
+lang:        "it"
+
+# Autore
+author:
+  name:  "ASD Wyverns Dodgeball"
+  email: "wyvernsdodgeballasd@gmail.com"
+
+# Contatti
+phone:          "+393331696568"
+phone_display:  "333 169 6568"
+
+# Social
+social:
+  instagram: "https://www.instagram.com/wyvernsdodgeball/"
+  facebook:  "https://www.facebook.com/p/ASD-Wyverns-Dodgeball-61577622093632/"
+  tiktok:    "https://www.tiktok.com/@wyverns.dodgeball"
+  youtube:   "https://www.youtube.com/@wyvernsdodgeballasd"
+
+# SEO — lascia vuoti finché non li crei (vedi DA-COMPLETARE.md)
+google_analytics:         ""
+google_site_verification: ""
+
+# Immagine default per anteprime social (1200x630)
+og_image: "/assets/images/wyverns-dodgeball-roma-og.jpg"
+
+sass:
+  style: compressed
+
+# Jekyll
+markdown:    kramdown
+permalink:   "/:categories/:title/"
+
+# Plugin supportati da GitHub Pages
+plugins:
+  - jekyll-sitemap
+
+# Escludi dalla build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - DA-COMPLETARE.md
+
+# Includi cartella _pages
+include:
+  - _pages
