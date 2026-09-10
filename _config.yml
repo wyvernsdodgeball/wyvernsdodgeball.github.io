@@ -6,9 +6,8 @@
 title:       "Wyverns Dodgeball – Dodgeball a Roma"
 description: "ASD Wyverns Dodgeball: la squadra di dodgeball di Roma. Allenamenti a San Paolo per adulti, principianti e bambini. Affiliati FIGeST. Vieni a provare!"
 
-# URL del sito. Finché usi solo GitHub Pages: https://TUO-UTENTE.github.io
-# Quando colleghi il dominio Aruba: https://wyvernsdodgeball.it (o dodgeballroma.it)
-url:         "https://wyverns-dodgeball.github.io"
+# URL del sito (dominio Aruba collegato a GitHub Pages)
+url:         "https://wyvernsdodgeball.it"
 baseurl:     ""
 lang:        "it"
 

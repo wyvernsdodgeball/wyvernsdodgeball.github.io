@@ -3,7 +3,7 @@
 Sito ufficiale della **ASD Wyverns Dodgeball** — Dodgeball a Roma (San Paolo).  
 Affiliati FIGeST · Allenamenti per adulti, principianti e bambini.
 
-🌐 **https://wyverns-dodgeball.github.io** (poi il dominio Aruba)
+🌐 **https://wyvernsdodgeball.it**
 
 > Il sito è basato sul lavoro dei [Ravenna Grizzlies](https://dodgeballravenna.it)
 > ([repo originale](https://github.com/dynamogrizzly-creator/dynamogrizzly-creator.github.io)), usato con autorizzazione.

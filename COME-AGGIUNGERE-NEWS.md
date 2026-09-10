@@ -17,7 +17,7 @@ Guida per pubblicare nuove notizie sul sito **dei Wyverns Dodgeball** senza tocc
 Se vuoi aggiungere un'immagine alla news:
 
 1. Vai su [github.com](https://github.com) e accedi
-2. Apri il repository: `wyverns-dodgeball/wyverns-dodgeball.github.io`
+2. Apri il repository: `wyvernsdodgeball/wyvernsdodgeball.github.io`
 3. Entra nella cartella **`assets/images/`**
 4. Clicca **"Add file" → "Upload files"**
 5. Trascina l'immagine e clicca **"Commit changes"**
@@ -96,7 +96,7 @@ Il sito si aggiorna automaticamente in 2-3 minuti. 🎉
 
 Vai su:
 ```
-https://wyverns-dodgeball.github.io/news/
+https://wyvernsdodgeball.it/news/
 ```
 
 La tua news dovrebbe apparire in cima alla lista. Le ultime 3 news appaiono anche in **homepage**.

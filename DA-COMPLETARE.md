@@ -3,9 +3,6 @@
 Elenco di quello che nel sito è provvisorio o da confermare. Cancella le righe man mano che le sistemi.
 
 ## Prima di pubblicare
-- [ ] **Permesso dei Ravenna Grizzlies** (licenza CC BY-NC-ND del tema): non pubblicare prima di averlo per iscritto.
-- [ ] `_config.yml` → `url`: mettere `https://TUO-UTENTE.github.io` (deve coincidere con il nome del repo). Quando colleghi il dominio Aruba, cambiarlo nel dominio.
-- [ ] `COME-AGGIUNGERE-NEWS.md` / `COME-AGGIUNGERE-ALBUM.md` / `README.md`: sostituire `wyverns-dodgeball/wyverns-dodgeball.github.io` con il nome reale del tuo account/repo GitHub.
 - [ ] GitHub → Settings → Secrets: `CLOUDINARY_CLOUD_NAME`, `CLOUDINARY_API_KEY`, `CLOUDINARY_API_SECRET`.
 - [ ] GitHub → Settings → Actions → General → Workflow permissions → **Read and write**.
 - [ ] `_templates/TEMPLATE-album.md`: sostituire `TUO-CLOUD-NAME` con il cloud name Cloudinary.

@@ -30,7 +30,7 @@ Guida per aggiungere nuovi album al sito **dei Wyverns Dodgeball** senza toccare
 ## STEP 2 — Crea il file dell'album su GitHub
 
 1. Vai su [github.com](https://github.com) e accedi
-2. Apri il repository del sito: `wyverns-dodgeball/wyverns-dodgeball.github.io`
+2. Apri il repository del sito: `wyvernsdodgeball/wyvernsdodgeball.github.io`
 3. Entra nella cartella **`_pages/`**
 4. Clicca su **"Add file" → "Create new file"**
 
@@ -98,7 +98,7 @@ Il sistema importa le foto da Cloudinary automaticamente ogni notte, ma puoi for
 Dopo 2-3 minuti il sito si aggiorna automaticamente. Vai su:
 
 ```
-https://wyverns-dodgeball.github.io/album/ANNO/
+https://wyvernsdodgeball.it/album/ANNO/
 ```
 
 Dovresti vedere il nuovo album nella griglia. Cliccaci sopra per verificare che le foto siano caricate correttamente.
