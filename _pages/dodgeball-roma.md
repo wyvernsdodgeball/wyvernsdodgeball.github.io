@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Dodgeball a Roma – Dove si gioca e come iniziare | Wyverns Dodgeball"
-description: "Vuoi giocare a dodgeball a Roma? Con i Wyverns Dodgeball ti alleni a San Paolo (Metro B), in un gruppo aperto a principianti, adulti e bambini. Affiliati FIGeST."
+description: "Vuoi giocare a dodgeball a Roma? Con i Wyverns Dodgeball ti alleni a San Paolo (Metro B), in un gruppo aperto a principianti, adulti e bambini. Campionato Nazionale FIGeST."
 keywords: "dodgeball Roma, giocare a dodgeball Roma, dodgeball San Paolo, squadra dodgeball Roma, dodgeball Lazio, palla avvelenata Roma"
 og_image: "/assets/images/wyverns-dodgeball-roma-og.jpg"
 permalink: /dodgeball-roma/
@@ -36,7 +36,7 @@ permalink: /dodgeball-roma/
 
       <p class="article-lead">Il dodgeball, conosciuto da molti come l'evoluzione sportiva della "palla avvelenata", è uno sport di squadra che unisce velocità, strategia e riflessi. Negli ultimi anni si è diffuso sempre di più anche in Italia, trasformandosi da gioco da cortile a disciplina organizzata, con una federazione, un campionato nazionale e una Nazionale che partecipa a Europei e Mondiali.</p>
 
-      <p>A Roma, per molto tempo, chi voleva provarlo doveva accontentarsi di qualche partita occasionale. I <strong>Wyverns Dodgeball</strong> nascono per cambiare questo: un'associazione sportiva dilettantistica, affiliata alla <strong>FIGeST</strong> (la federazione che gestisce il dodgeball in Italia), con una palestra fissa, allenamenti regolari tre sere a settimana e un gruppo che cresce.</p>
+      <p>A Roma, per molto tempo, chi voleva provarlo doveva accontentarsi di qualche partita occasionale. I <strong>Wyverns Dodgeball</strong> nascono per cambiare questo: un'associazione sportiva dilettantistica nata il 4 giugno 2025, che partecipa al <strong>Campionato Nazionale FIGeST</strong> (la federazione che gestisce il dodgeball in Italia), con una palestra fissa, allenamenti regolari tre sere a settimana e un gruppo che cresce.</p>
 
       <p>La casa dei Wyverns è la palestra della <strong>Scuola Malaspina, in Via Antonino Pio 84</strong>, nel quartiere <strong>San Paolo</strong>: a pochi minuti a piedi dalla fermata San Paolo della Metro B, comoda da raggiungere da tutta la città. È qui che si allenano gli adulti il lunedì, mercoledì e giovedì sera, il gruppo principianti il martedì e i bambini il mercoledì pomeriggio.</p>
 
@@ -77,7 +77,7 @@ permalink: /dodgeball-roma/
       </div>
       <div class="join-highlight-card">
         <span class="join-highlight-icon">🏛️</span>
-        <strong>Affiliati FIGeST</strong>
+        <strong>Campionato Nazionale FIGeST</strong>
         <p>La federazione del dodgeball italiano</p>
       </div>
       <div class="join-highlight-card">

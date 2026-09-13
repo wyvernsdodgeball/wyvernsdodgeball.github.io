@@ -12,8 +12,7 @@ Elenco di quello che nel sito è provvisorio o da confermare. Cancella le righe 
 - [ ] **Fascia d'età del corso bambini** (es. 8–13 anni): aggiungerla nelle card "Bambini" e nella FAQ.
 - [ ] **Età minima per gli adulti** (es. dai 16 anni): aggiungerla nella card "Adulti" in `_pages/unisciti.md`.
 - [ ] **Quote di iscrizione / prova gratuita**: oggi il sito dice solo "contattaci per le quote". Se il primo allenamento è gratuito, scriverlo (è un ottimo argomento: Ravenna lo mette ovunque).
-- [ ] **Anno di fondazione**: non l'ho inserito. Se vuoi metterlo, va in `_pages/squadra.md`, nella stats-bar (`data-count`) e in `_includes/schema-org.html` (`foundingDate`).
-- [ ] **Campionato**: ho scritto "affiliati FIGeST" senza dire in quale categoria/serie giocate. Se partecipate al campionato nazionale, aggiungere squadre e categoria in home e in `_pages/squadra.md`.
+- [ ] **Campionato**: ora il sito dice "Campionato Nazionale FIGeST". Se volete, aggiungere categoria/serie e risultati in home e in `_pages/squadra.md`.
 - [ ] **Coordinate palestra** in `_includes/schema-org.html` (`latitude`/`longitude`): sono approssimative per Via Antonino Pio; correggile con quelle esatte da Google Maps (tasto destro sul punto → copia coordinate).
 - [ ] **Link Facebook**: ho usato l'URL della pagina `facebook.com/p/ASD-Wyverns-Dodgeball-61577622093632/`. Verifica che apra la pagina giusta.
 

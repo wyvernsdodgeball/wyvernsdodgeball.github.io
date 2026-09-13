@@ -12,7 +12,7 @@ permalink: /news/
       <span class="section-tag">Aggiornamenti</span>
       <h2>NEWS &<br>RISULTATI</h2>
       <div class="divider"></div>
-      <p>Tutto quello che succede nella tana dell'orso.</p>
+      <p>Tutto quello che succede in casa Wyverns.</p>
     </div>
 
     <div class="news-grid" data-reveal>

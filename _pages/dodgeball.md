@@ -1,82 +1,66 @@
 ---
 layout: page
-title: "Cos'è il Dodgeball – Lo Sport"
+title: "Cos'è il Dodgeball – Regole e fondamentali"
 permalink: /dodgeball/
-description: "Scopri cos'è il dodgeball: regole, mosse e tutto quello che devi sapere sullo sport praticato dai Wyverns Dodgeball a Roma."
+description: "Cos'è il Dodgeball: il pallone, il campo, come inizia un set, i quattro fondamentali (dodge, throw, block, catch) e come si vince una partita. Spiegato dai Wyverns Dodgeball di Roma."
+keywords: "cos'è il dodgeball, regole dodgeball, dodgeball foam, palla prigioniera, dodgeball Roma"
 ---
 
-# Cos'è il Dodgeball
+## Cos'è il Dodgeball?
 
-Due squadre. Un campo diviso a metà. Sei palle. L'obiettivo? Colpire gli avversari ed eliminarli — o schivare tutto quello che ti tirano addosso.
+Il Dodgeball è uno sport di squadra dinamico ed esplosivo che nasce come evoluzione agonistica della palla prigioniera.
 
-Il dodgeball è uno sport di squadra nato nei college americani, diventato negli ultimi vent'anni una disciplina sportiva seria con federazioni, campionati mondiali e migliaia di atleti in tutto il mondo. In Italia è gestito dalla FIGeST, e la competizione è vera: velocità, riflessi, strategia e tanto lavoro di squadra.
+## Quale pallone viene utilizzato?
 
-Sì, è quello sport che forse hai visto in un film comico degli anni 2000. No, non è solo quello.
+La nostra ASD utilizza il **Foam**, un pallone antitrauma in spugna.
 
----
+## Con quanti palloni si gioca?
 
-## Le basi in 30 secondi
+Si gioca con **6 palloni**.
 
-**Squadre:** 6 giocatori per parte in campo, da 6 a 12 in rosa.
+## Dove si gioca?
 
-**Palle:** 6 palle in schiuma morbida (poliuretano), 17,8 cm di diametro — leggere e sicure.
+Il campo da gioco è un campo da pallavolo senza rete (**18 m × 9 m**). Si gioca con 6 palloni e i giocatori in campo sono **6 per ogni squadra**.
 
-**Campo:** 18 × 9 metri, diviso a metà. Non puoi andare nella metà avversaria.
+## Quanto dura una partita?
 
-**Scopo:** eliminare tutti i giocatori avversari lanciando le palle. Chi resta in campo vince il set.
+Una partita dura circa **40 minuti**. Ogni tempo dura 20 minuti + NO BLOCKING.
 
-**Come si viene eliminati:** una palla ti colpisce e tocca terra. Semplice.
+## Come inizia un set?
 
-**Come si salva un compagno:** se prendi al volo una palla avversaria senza farla toccare terra, chi l'ha lanciata è fuori — e un tuo compagno eliminato rientra in campo.
+I palloni vengono posizionati sulla linea centrale, tre da ogni lato. Al fischio dell'arbitro si parte con la **corsa iniziale**: ogni squadra correrà per prendere, il più velocemente possibile, i tre palloni posizionati alla propria destra. Successivamente dovrà **attivarli**, facendo passare il pallone oltre la linea di attivazione (linea dei tre metri).
 
-**Partita:** due tempi da 20 minuti. Ogni set vinto vale un punto. Vince chi ne fa di più.
+## Dopo la corsa iniziale come si prosegue?
 
----
+Una volta attivati i palloni saranno **4 i fondamentali** da mettere in pratica:
 
-## Un po' di storia
+- **DODGE** — schivare tutti i palloni lanciati dagli avversari per evitare di essere colpiti
+- **THROW** — cercare di colpire gli avversari lanciando il pallone
+- **BLOCK** — utilizzare il pallone come scudo per non essere colpiti
+- **CATCH** — prendere al volo i palloni lanciati dagli avversari, così da eliminare il lanciatore e far rientrare un proprio compagno di squadra precedentemente eliminato
 
-Il dodgeball moderno nasce negli Stati Uniti tra fine Ottocento e inizio Novecento come gioco universitario. Per decenni rimane confinato alle palestre scolastiche, ma dagli anni 2000 in poi esplode come sport vero: si formano federazioni nazionali, poi la WDBF (World Dodgeball Federation) a livello globale, e oggi si tengono Campionati Europei e Mondiali con squadre da ogni continente.
+## Quanto dura un set?
 
-In Italia lo sport è arrivato più tardi, ma la crescita è stata rapida. Oggi ci sono squadre in quasi tutte le regioni, e la scena competitiva è sorprendentemente seria.
+Un set non ha una durata prestabilita. Se dopo **3 minuti** ancora non si è concluso, inizia la fase di **NO BLOCKING**.
 
-I Wyverns Dodgeball sono la squadra di Roma affiliata FIGeST: ci alleniamo a San Paolo, tre volte a settimana, e accogliamo chiunque voglia provare — dal principiante assoluto a chi ha già giocato.
+## Quando finisce un set?
 
----
+Il set finisce quando una squadra ha eliminato tutti i giocatori avversari. La squadra ancora in gioco si aggiudica il set.
 
-## Come funziona davvero
+## Come si vince una partita?
 
-Se vuoi capire un po' meglio cosa succede in campo, ecco le cose che fanno la differenza.
-
-### L'apertura
-
-Ogni set inizia con tutti e sei i giocatori schierati sulla linea di fondo. Le palle sono al centro. Al fischio, si corre a recuperarle — e inizia il caos. Le palle recuperate devono attraversare la linea di attacco (a 3 metri dal centro) prima di poter essere usate per colpire.
-
-### Lanciare e schivare
-
-Puoi lanciare in qualsiasi modo — di lato, dall'alto, dal basso. Se la palla ti colpisce su qualsiasi parte del corpo (capelli inclusi) e poi tocca terra, sei fuori.
-
-### Bloccare
-
-Puoi usare una palla che tieni in mano per bloccare un lancio avversario. Attenzione però: se durante il blocco perdi la palla e questa tocca terra prima che tu la riprenda, sei eliminato tu.
-
-### Prendere al volo
-
-La mossa più spettacolare. Se riesci a prendere al volo una palla avversaria, chi l'ha lanciata è eliminato e un tuo compagno torna in campo. Il rischio è alto, la soddisfazione anche.
-
-### Il vantaggio
-
-Se una squadra accumula troppe palle senza lanciare, l'arbitro assegna il vantaggio e scatta un conto alla rovescia di 10 secondi. Scaduto il tempo senza lanci, le palle passano agli avversari. Niente tatticismi infiniti.
+Alla fine della partita, chi ha vinto più set vince la partita.
 
 ---
 
-## Foam o Cloth?
+### Cos'è il NO BLOCKING?
 
-Il dodgeball ufficiale si gioca in due varianti: **Foam** (palle in schiuma) e **Cloth** (palle rivestite in tessuto, con regole diverse — zona neutra, attacchi aerei e altro ancora). In Italia e nei campionati che disputiamo noi si gioca principalmente in **Foam**, ed è di questo che si parla in questa pagina.
+Il NO BLOCKING è una fase della partita in cui **non è possibile utilizzare il BLOCK**: se lo si fa, si è eliminati. Questa fase c'è alla fine di un set, nel caso questo duri più di tre minuti, e alla fine di ogni tempo di gioco.
 
 ---
 
 ## Vuoi provare?
 
-Adesso sai abbastanza. Il resto lo impari in palestra — e ci vuole meno di un allenamento per capire perché questo sport crea dipendenza.
+Adesso sai abbastanza. Il resto lo impari in palestra.
 
 [Scopri gli orari e unisciti ai Wyverns →](/unisciti/)

@@ -1,7 +1,7 @@
 # 🐲 Wyverns Dodgeball — Sito Web
 
 Sito ufficiale della **ASD Wyverns Dodgeball** — Dodgeball a Roma (San Paolo).  
-Affiliati FIGeST · Allenamenti per adulti, principianti e bambini.
+Campionato Nazionale FIGeST · Allenamenti per adulti, principianti e bambini.
 
 🌐 **https://wyvernsdodgeball.it**
 

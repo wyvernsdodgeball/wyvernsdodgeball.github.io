@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "La Squadra | Wyverns Dodgeball Roma"
-description: "Scopri i Wyverns Dodgeball: l'associazione sportiva di dodgeball di Roma, affiliata FIGeST. Adulti, principianti e bambini si allenano a San Paolo."
+description: "La storia dei Wyverns Dodgeball: dal primo incontro con il dodgeball nel 2021 alla nascita dell'ASD il 4 giugno 2025. La squadra di dodgeball di Roma, Campionato Nazionale FIGeST."
 keywords: "Wyverns Dodgeball squadra, ASD Wyverns Dodgeball, squadra dodgeball Roma, dodgeball San Paolo"
 og_image: "/assets/images/wyverns-dodgeball-roma-og.jpg"
 permalink: /squadra/
@@ -11,7 +11,7 @@ permalink: /squadra/
 <nav class="section-sidebar" id="sectionSidebar" aria-label="Navigazione sezioni">
   <ul>
     <li><a href="#top"       class="sidebar-dot" data-section="top">      <span class="sidebar-line"></span><span class="sidebar-label">Inizio</span>    </a></li>
-    <li><a href="#chi-siamo" class="sidebar-dot" data-section="chi-siamo"><span class="sidebar-line"></span><span class="sidebar-label">Chi siamo</span>  </a></li>
+    <li><a href="#chi-siamo" class="sidebar-dot" data-section="chi-siamo"><span class="sidebar-line"></span><span class="sidebar-label">La storia</span>  </a></li>
     <li><a href="#valori"    class="sidebar-dot" data-section="valori">   <span class="sidebar-line"></span><span class="sidebar-label">Come giochiamo</span></a></li>
   </ul>
 </nav>
@@ -21,9 +21,9 @@ permalink: /squadra/
   <div class="container">
     <div class="page-hero-inner" data-reveal>
       <span class="section-tag">Chi siamo</span>
-      <h1>LA TANA<br><span>DEL DRAGO</span></h1>
+      <h1>LA NOSTRA<br><span>STORIA</span></h1>
       <div class="divider"></div>
-      <p class="page-lead">La squadra di dodgeball di Roma. Ci alleniamo a San Paolo, giochiamo in FIGeST, accogliamo tutti.</p>
+      <p class="page-lead">Dal primo incontro con il dodgeball nel 2021 alla nascita dei Wyverns, il 4 giugno 2025.</p>
     </div>
   </div>
 </section>
@@ -33,25 +33,29 @@ permalink: /squadra/
     <div class="about-grid" data-reveal>
       <div class="about-text">
         <p>
-          I <strong>Wyverns Dodgeball</strong> sono un'associazione sportiva dilettantistica nata a Roma
-          con un'idea semplice: dare alla Capitale una casa per il dodgeball, uno sport che in Italia sta
-          crescendo in fretta e che qui mancava.
+          <strong>Serena Delle Cave</strong> e <strong>Leonardo Cortese</strong> incontrano per la prima volta il
+          Dodgeball nel 2021 tramite l'ASD Roma Dodgeball. È proprio grazie a questa esperienza che si appassionano
+          allo sport e decidono, quattro anni dopo, di aprire la loro realtà.
         </p>
         <p>
-          Siamo <strong>affiliati alla FIGeST</strong>, la federazione che organizza il campionato nazionale,
-          e ci alleniamo tre sere a settimana nella palestra della <strong>Scuola Malaspina a San Paolo</strong>,
-          a pochi minuti dalla Metro B. Al gruppo adulti, aperto a chi ha già giocato e a chi parte da zero,
-          da quest'anno si aggiungono un <strong>corso principianti</strong> e un <strong>corso bambini</strong>.
+          Il <strong>4 giugno 2025</strong> nasce così l'<strong>Associazione Sportiva Dilettantistica Wyverns
+          Dodgeball</strong>, con l'obiettivo di far conoscere il Dodgeball ad adulti e bambini nella città di Roma.
+          Il progetto è quello di costruire una squadra solida, organizzata e inclusiva, capace di competere, anche a
+          Campionati di alto livello, senza perdere lo spirito di gruppo. Gli allenamenti sono pensati per migliorare
+          tecnica, condizione fisica e gioco di squadra, adattandosi a diversi livelli di esperienza.
         </p>
         <p>
-          Non siamo solo risultati. Siamo un gruppo che si allena con serietà e si diverte con ancora più
-          serietà. L'ambiente è aperto, competitivo e inclusivo — chiunque può entrare, chiunque può crescere.
+          Leonardo Cortese, Serena Delle Cave e <strong>Silvia Leone</strong>, membri del consiglio direttivo e
+          appassionati del genere fantasy, scelgono la <strong>viverna</strong> come simbolo di potenza, forza e
+          conquista. Da qui l'origine dei colori: il <strong>verde</strong> per le scaglie, il <strong>viola</strong>
+          per il veleno. Nel logo è rappresentata una viverna vista di profilo, racchiusa in una forma sferica che
+          ricorda il pallone.
         </p>
         <div class="about-badges" style="margin-top: 1.5rem;">
           <span class="badge">⚡ Squadra adulti</span>
           <span class="badge">🌱 Corso principianti</span>
           <span class="badge">🐣 Corso bambini</span>
-          <span class="badge badge-gold">🏛️ Affiliati FIGeST</span>
+          <span class="badge badge-gold">🏛️ Campionato Nazionale FIGeST</span>
         </div>
       </div>
       <div class="about-visual">
@@ -66,9 +70,9 @@ permalink: /squadra/
 </section>
 
 <div class="stats-bar">
+  <div class="stat" data-count="2025" data-label="Anno di fondazione"></div>
   <div class="stat" data-count="3" data-label="Allenamenti a settimana"></div>
-  <div class="stat" data-emoji="🚇" data-label="Metro B San Paolo"></div>
-  <div class="stat" data-emoji="🏛️" data-label="Affiliati FIGeST"></div>
+  <div class="stat" data-emoji="🏛️" data-label="Campionato Nazionale FIGeST"></div>
   <div class="stat" data-emoji="🐲" data-label="Adulti e bambini"></div>
 </div>
 

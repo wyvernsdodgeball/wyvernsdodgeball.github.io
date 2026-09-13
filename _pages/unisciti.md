@@ -23,7 +23,7 @@ permalink: /unisciti/
 <section id="top" class="page-hero">
   <div class="container">
     <div class="page-hero-inner" data-reveal>
-      <span class="section-tag">Entra nella tana</span>
+      <span class="section-tag">Diventa una Viverna</span>
       <h1>UNISCITI AI<br><span>WYVERNS</span></h1>
       <div class="divider"></div>
       <p class="page-lead">Vieni a provare un allenamento a San Paolo. Scrivici prima, così ti aspettiamo e ti diciamo la serata giusta per te.</p>
