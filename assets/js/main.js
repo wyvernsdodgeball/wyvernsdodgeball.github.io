@@ -48,7 +48,11 @@ document.addEventListener('DOMContentLoaded', () => {
   // ── 3. PARTICLES in hero ──
   const particlesContainer = document.getElementById('particles');
   if (particlesContainer) {
-    const colors = ['#7B2FBE', '#4A6FE3', '#C084FC', '#60A5FA', '#9B59E8'];
+    // Colori delle particelle: letti dalla palette in assets/css/style.scss
+    const css    = getComputedStyle(document.documentElement);
+    const colors = ['--purple', '--blue', '--purple-light', '--blue-electric', '--purple-mid']
+      .map(v => css.getPropertyValue(v).trim())
+      .filter(Boolean);
     const count  = 28;
 
     for (let i = 0; i < count; i++) {
