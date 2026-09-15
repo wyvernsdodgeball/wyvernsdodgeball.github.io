@@ -1,62 +1,104 @@
 ---
-# ================================================================
-#  TEMPLATE ALBUM FOTOGRAFICO — Wyverns Dodgeball
-#  Copia questo file, rinominalo e compila i campi qui sotto.
-#  NON modificare le righe che iniziano con #
-# ================================================================
-
-# LAYOUT — non modificare
-layout: album-detail
-
-# TITOLO DELL'ALBUM
-# Es: "GrizzCup", "Serie A – Bologna", "Allenamento Aperto"
+layout: "album-detail"
 title: "ALLENAMENTI WYVERNS ROMA 2026"
-
-# PERMALINK — l'URL della pagina
-# Formato: /album/ANNO-MESE-GIORNO-nome-evento/
-# Usa solo lettere minuscole, numeri e trattini. Niente spazi o accenti.
-# Es: /album/2026-03-15-serie-a-bologna/
-permalink: /album/2026-01-01-allenamenti/
-
-# CARTELLA CLOUDINARY
-# Il percorso della cartella su Cloudinary dove hai caricato le foto.
-# Es: "2026/serie-a-bologna" oppure "2026/grizzcup"
-# Questo campo è usato dal sistema automatico per importare le foto.
+permalink: "/album/2026-01-01-allenamenti/"
 cloudinary_folder: "2026/allenamenti"
-
-# DATA DELL'EVENTO
-# Formato: ANNO-MESE-GIORNO
-# Es: 2026-03-15
 data: 2026-01-01
-
-# ANNO — deve corrispondere all'anno nella data
-# Es: 2026
 anno: 2026
-
-# CATEGORIA
-# Una breve etichetta che descrive il tipo di evento.
-# Es: "Campionato", "Torneo", "Amichevole", "Allenamento", "Evento"
 categoria: "ALLENAMENTO"
-
-# DESCRIZIONE BREVE
-# Una frase che descrive l'evento. Appare nei risultati Google.
-# Es: "Prima giornata del campionato nazionale Serie A Maschile a Bologna."
 descrizione: "Alcune immagini della passata stagione di allenamenti"
-
-# FOTO DI COPERTINA
-# L'URL della foto che vuoi usare come copertina dell'album.
-# Copiala da Cloudinary: apri la foto → Copy URL
-# Es: "https://res.cloudinary.com/TUO-CLOUD-NAME/image/upload/v123456/2026/evento/cover.jpg"
 cover: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484232/IMG-20260606-WA0002.jpg"
-
-# OG IMAGE — immagine per i social (Facebook, WhatsApp, ecc.)
-# Di solito è la stessa della cover. Non modificare la parte w_1200,q_auto/
 og_image: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484232/IMG-20260606-WA0002.jpg"
-
-# FOTO — lista delle foto dell'album
-# Viene aggiornata AUTOMATICAMENTE dal sistema ogni notte.
-# Non serve modificarla a mano — basta caricare le foto su Cloudinary
-# nella cartella indicata in cloudinary_folder qui sopra.
-foto_count: 0
-foto: []
+foto_count: 45
+foto:
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484224/IMG-20251002-WA0037.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484225/IMG-20251020-WA0047.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484224/IMG-20260124-WA0003.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484226/IMG-20260127-WA0041.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484225/IMG-20260127-WA0043.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484225/IMG-20260127-WA0046.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484225/IMG-20260127-WA0048.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484226/IMG-20260127-WA0049_1.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484226/IMG-20260127-WA0050.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484226/IMG-20260127-WA0053.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484227/IMG-20260127-WA0054.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484227/IMG-20260127-WA0056.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484226/IMG-20260127-WA0059_1.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484226/IMG-20260128-WA0004.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484227/IMG-20260129-WA0055.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484227/IMG-20260129-WA0058.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484227/IMG-20260224-WA0063.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484228/IMG-20260224-WA0064.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484229/IMG-20260224-WA0065.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484228/IMG-20260224-WA0066.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484229/IMG-20260224-WA0068.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484229/IMG-20260224-WA0071.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484229/IMG-20260224-WA0072.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484229/IMG-20260224-WA0073.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484229/IMG-20260224-WA0075.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484230/IMG-20260224-WA0076.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484230/IMG-20260224-WA0077.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484231/IMG-20260224-WA0078.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484231/IMG-20260421-WA0042.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484230/IMG-20260421-WA0047.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484231/IMG-20260421-WA0048.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484231/IMG-20260421-WA0054_1.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484231/IMG-20260421-WA0067.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484231/IMG-20260528-WA0039.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484231/IMG-20260531-WA0011.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484232/IMG-20260606-WA0002.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484232/IMG-20260606-WA0003.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484232/IMG-20260606-WA0008.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484233/IMG-20260606-WA0042.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484233/IMG-20260606-WA0045.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484233/IMG-20260606-WA0048.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484233/IMG-20260606-WA0051.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484234/IMG-20260606-WA0055.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484234/IMG-20260607-WA0013.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
+  - url: "https://res.cloudinary.com/mz8i8wcy/image/upload/v1789484234/IMG-20260607-WA0015.jpg"
+    alt: "ALLENAMENTI WYVERNS ROMA 2026"
 ---
