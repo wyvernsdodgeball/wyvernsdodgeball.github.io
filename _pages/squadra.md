@@ -45,7 +45,7 @@ permalink: /squadra/
           tecnica, condizione fisica e gioco di squadra, adattandosi a diversi livelli di esperienza.
         </p>
         <p>
-          Leonardo Cortese, Serena Delle Cave e <strong>Silvia Leone</strong>, membri del consiglio direttivo e
+          <strong>Leonardo Cortese</strong>, <strong>Serena Delle Cave</strong> e <strong>Silvia Leone</strong>, membri del consiglio direttivo e
           appassionati del genere fantasy, scelgono la <strong>viverna</strong> come simbolo di potenza, forza e
           conquista. Da qui l'origine dei colori: il <strong>verde</strong> per le scaglie, il <strong>viola</strong>
           per il veleno. Nel logo è rappresentata una viverna vista di profilo, racchiusa in una forma sferica che
